@@ -7,3 +7,5 @@ A string of timers to help you focus
 - [ ] Flow timer
 - [ ] Focus graphs
 - [ ] Current focus for current timer
+- [ ] Create weekly and daily focus goals
+- [ ] Get (optionally) charged for missed focus goals
